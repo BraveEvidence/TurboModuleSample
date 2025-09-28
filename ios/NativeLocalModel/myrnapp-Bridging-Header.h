@@ -3,3 +3,4 @@
 //
 
 #import "RCTAppDelegate.h"
+#import <React-RCTAppDelegate/RCTDefaultReactNativeFactoryDelegate.h>
